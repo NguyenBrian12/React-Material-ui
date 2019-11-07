@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-material-ui/static/css/main.cfda8877.chunk.css",
+    "main.js": "/react-material-ui/static/js/main.ecb78fff.chunk.js",
+    "main.js.map": "/react-material-ui/static/js/main.ecb78fff.chunk.js.map",
+    "runtime-main.js": "/react-material-ui/static/js/runtime-main.b20d2153.js",
+    "runtime-main.js.map": "/react-material-ui/static/js/runtime-main.b20d2153.js.map",
+    "static/js/2.27c69cdf.chunk.js": "/react-material-ui/static/js/2.27c69cdf.chunk.js",
+    "static/js/2.27c69cdf.chunk.js.map": "/react-material-ui/static/js/2.27c69cdf.chunk.js.map",
+    "index.html": "/react-material-ui/index.html",
+    "precache-manifest.3305f3834c28959b69505ae56180cb7e.js": "/react-material-ui/precache-manifest.3305f3834c28959b69505ae56180cb7e.js",
+    "service-worker.js": "/react-material-ui/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/react-material-ui/static/css/main.cfda8877.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b20d2153.js",
+    "static/js/2.27c69cdf.chunk.js",
+    "static/css/main.cfda8877.chunk.css",
+    "static/js/main.ecb78fff.chunk.js"
+  ]
+}
